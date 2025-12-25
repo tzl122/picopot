@@ -1,4 +1,4 @@
-# Solana Pico Hybrid Wallet
+# PicoPot
 
 A minimal Solana hybrid wallet project using a Raspberry Pi Pico
 to explore Ed25519 cryptography and cold-wallet design concepts.
