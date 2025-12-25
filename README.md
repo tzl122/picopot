@@ -3,7 +3,7 @@
 A minimal Solana hybrid wallet project using a Raspberry Pi Pico
 to explore Ed25519 cryptography and cold-wallet design concepts.
 In the current version, transaction signing and broadcasting
-are handled on a laptop due to hardware and implementation limitations.
+are handled on a laptop due to hardware and implementation and my skill limitations.
 
 ## Features
 - Pure Python Ed25519 implementation on Raspberry Pi Pico
