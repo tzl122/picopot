@@ -24,4 +24,3 @@ are handled on a laptop due to hardware and implementation and my skill limitati
 - Broadcasts transactions to the Solana network
 
 > ⚠️ Transaction signing is currently performed on the laptop.  
-> Pico-based transaction signing is a planned improvement.
